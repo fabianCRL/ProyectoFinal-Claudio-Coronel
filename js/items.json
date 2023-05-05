@@ -1,0 +1,33 @@
+[
+    {
+        "id": "vga-01",
+        "titulo": "AMD RX 6700XT",
+        "imagen": "./img/hardware/6700xt.png",       
+        "precio": 500
+    },
+    {
+        "id": "vga-02",
+        "titulo": "AMD RX 6800",
+        "imagen": "./img/hardware/RX 6800.png",        
+        "precio": 800
+    },
+    {
+        "id": "vga-03",
+        "titulo": "NVIDIA RTX 4070 Ti",
+        "imagen": "./img/hardware/rtx4070.png",        
+        "precio": 1500
+    },
+    {
+        "id": "micro-01",
+        "titulo": "INTEL CORE I7",
+        "imagen": "./img/hardware/Intel-I7.png",        
+        "precio": 800
+    },
+    {
+        "id": "micro-02",
+        "titulo": "AMD RYZEN 5800X",
+        "imagen": "./img/hardware/amd 5800x.webp",        
+        "precio": 700
+    }
+    
+]
